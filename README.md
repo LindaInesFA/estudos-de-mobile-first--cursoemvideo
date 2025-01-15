@@ -7,7 +7,7 @@ O objetivo é compreender os conceitos fundamentais de design responsivo, boas p
 
 🛠️ Tecnologias Utilizadas
 HTML5: Estrutura do conteúdo.
-CSS3: Estilos e design responsivo.
+CSS: Estilos e design responsivo.
 Git: Controle de versão.
 
 📚 Aprendizados Esperados
