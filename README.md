@@ -1,4 +1,4 @@
-# estudos-de-mobile-first--cursoemvideo
+# estudos-de-mobile-first-cursoemvideo
 
 📱 Sobre o Projeto
 Este é um projeto de estudos focado no desenvolvimento utilizando a abordagem Mobile First, que prioriza a criação de interfaces para dispositivos móveis antes de adaptar o design para telas maiores, como tablets e desktops.
